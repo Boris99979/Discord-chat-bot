@@ -1,0 +1,11 @@
+{
+    "ask_description": "Задать вопрос ChatGPT",
+	"asklong_description": "Задать длинный вопрос ChatGPT через текст и файл",
+    "asklong_file_describe": "Загрузите текстовый файл с вашим запросом/кодом и т.п.",
+    
+	"message_describe": "Введите ваш запрос",
+	"request_type_describe": "Тип запроса через интернет (Поисковик, Изображение, Видео)",
+    "request_type_search_name": "Поисковик",
+    "request_type_images_name": "Изображение", 
+    "request_type_videos_name": "Видео"
+}
